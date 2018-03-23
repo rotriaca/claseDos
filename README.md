@@ -1,2 +1,2 @@
-# claseDos
-Programación 1 - Clase 2 - 22/03
+# Ejercicios resueltos en clase
+Programación 1 - Laboratorio 1
